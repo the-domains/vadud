@@ -1,0 +1,14 @@
+layout_spectrum: 0.4505908
+color:
+  saturation: 0.8158972
+  lightness: 0.7681822
+  brandStrength: 1
+  brandColors:
+    - '#FFFFFF'
+    - '#00AA33'
+    - '#BDE276'
+    - '#42C44C'
+    - '#C6FFE0'
+  rhythmicContrast: 0.3910578
+typography_spectrum: 0.2782963
+name: Vadud
