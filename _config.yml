@@ -1,14 +1,26 @@
-layout_spectrum: 0.4505908
 color:
   saturation: 0.8158972
-  lightness: 0.7681822
   brandStrength: 1
+  rhythmicContrast: 0.3910578
   brandColors:
     - '#FFFFFF'
     - '#00AA33'
     - '#BDE276'
     - '#42C44C'
     - '#C6FFE0'
-  rhythmicContrast: 0.3910578
+  lightness: 0.7681822
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.4505908
 typography_spectrum: 0.2782963
 name: Vadud
